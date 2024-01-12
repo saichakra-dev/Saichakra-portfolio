@@ -23,10 +23,10 @@ const greeting = {
   username: "Saichakra",
   title: "Hi all, I'm Saichakra",
   subTitle: emoji(
-    "A passionate Full Stack Software Developer 🚀 having an experience of building Web  applications with JavaScript / Reactjs / Nodejs / Express.js and some other cool libraries and frameworks."
+    "A passionate Full Stack Software Developer 🚀 having an experience of building Web  applications with JavaScript / Java / Reactjs / Nodejs / Express.js and some other cool libraries and frameworks."
   ),
   resumeLink:
-    "https://drive.google.com/file/d/1Vnib8vI-OxegU4bv8zhSFk1QxGyAdMHX/view?usp=drive_link", // Set to empty to hide the button
+    "https://drive.google.com/file/d/1U2KydIZX7DZVMKKaQfbBpKXgorlU1uEO/view?usp=sharing", // Set to empty to hide the button
   displayGreeting: true // Set false to hide this section, defaults to true
 };
 
@@ -55,7 +55,7 @@ const skillsSection = {
     ),
     emoji("⚡ Progressive Web Applications ( PWA ) in normal and SPA Stacks"),
     emoji(
-      "⚡ Integration of third party services such as Firebase/ AWS / Digital Ocean"
+      "⚡ Integration of third party services such as Vercel / AWS / Digital Ocean"
     )
   ],
 
@@ -207,9 +207,9 @@ const workExperiences = {
     },
     {
       role: "Backend  Developer",
-      company: "InfySkill",
+      company: "John Raicker IT Solutions",
       companylogo: require("./assets/images/infyskill.jpeg"),
-      date: "December 2023 – Present",
+      date: "January 2023 – Present",
       desc: "Working on Realworld MERN stack applications "
     },
     {
